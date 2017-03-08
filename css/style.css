@@ -1,0 +1,36 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+h1 {
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+}
+#quiz {
+    font-size: 16px;
+    display: none;
+}
+.wrapper {
+    margin-top: 20px;
+    padding: 0 25px 40px 10px;
+    background-color: cadetblue;
+    color: #FFFFFF;
+}
+.custom-button {
+    margin-right: 15px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+#prev {
+    display: none;
+}
+#start {
+    display: none;
+}
+.timer,
+.questionDisplay {
+    color: #000000;
+    font-size: 14px;
+}
